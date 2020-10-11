@@ -2,7 +2,7 @@
 
 Corona Virus Tracker with Flutter, responsive PWA and Native Android App
 
-Devpost Link:
+Devpost Link: https://devpost.com/software/corona-flutter-app
 
 YT Video Demo Link: https://youtu.be/S8av_riNQ9U
 
